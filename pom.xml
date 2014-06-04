@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>prelude-ls</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
     <name>prelude.ls</name>
     <description>WebJar for prelude.ls</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/prelude-ls</url>
         <connection>scm:git:https://github.com/webjars/prelude-ls.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/prelude-ls.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>prelude-ls-1.1.1</tag>
     </scm>
     
     <build>
